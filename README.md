@@ -1,1 +1,1 @@
-IMDb Movie Rating Scraper fetches the Top 250 movies from IMDb using Python, Selenium, and Pandas. It extracts title, year, rating, votes, and URLs, then prints a clean table and saves results as CSV. Lightweight, reliable, and easily extendable to genres, TV shows, or custom IMDb charts.
+ 
